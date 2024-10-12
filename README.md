@@ -1,2 +1,2 @@
-# Basi_js_project
+# Basic_js_project
 it is changer the bg color
